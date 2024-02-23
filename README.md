@@ -1,24 +1,42 @@
-<h1 align="center">Olá 👋, sou Gabriel Feifer Calixto</h1>
-<h3 align="center">Estudante de desenvolvimento full-stack e apaixonado por tecnologias</h3>
-
-- 🔭 Atualmente sou trabalhando em **Sistema ERP Desktop e Web**
-
-- 🌱 Atualmente estou aprendendo **Desenvolvimento FullStack e Bancos de Dados**
-
-- 👯 Procuro colaborar em **Projetos Mobiles Java**
-
-- 🤝 Procuro ajuda com **Bancos de Dados e Sistema de Nuvens**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://nextjs-gabriel-feifer-calixtos-projects.vercel.app/](https://nextjs-gabriel- feifer-calixtos-projects.vercel.app/)
-
-- 📫 Como entrar em contato comigo **gfcdev@outlook.com.br**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left" ">
-<a href="https://linkedin.com/in/gabriel calixto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel calixto" height="30" width="40" /></a> <
-a href= "https://fb.com/gabriel calixto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/facebook.svg" alt="gabriel calixto" height="30" width="40" /></a>
-<a href="https://instagram.com/gabrielfeiferc" target ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt ="gabrielfeiferc" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos /angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40 "/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools .com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40 " height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer .mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript /javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40 " height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https:/ /postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40 " height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www .typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt= "digitado" width="40" height="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs " width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href ="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql- original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href ="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python- original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs " width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href ="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql- original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href ="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python- original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https: //www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https: //www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DiferenciadoBem Top por Gabriel Feifer Calixto</title>
+</head>
+<body>
+    <h1>DiferenciadoBem Top por Gabriel Feifer Calixto</h1>
+    <p>Olá pessoal! 👋 Eu sou o Gabriel Feifer Calixto, um entusiasta de tecnologia e estudante de desenvolvimento full-stack. Aqui estão algumas informações sobre mim:</p>
+    <ul>
+        <li>🔭 Atualmente estou imerso no desenvolvimento de um Sistema ERP Desktop e Web.</li>
+        <li>🌱 Estou constantemente aprendendo sobre Desenvolvimento FullStack e Bancos de Dados para aprimorar minhas habilidades.</li>
+        <li>👯 Estou aberto para colaborar em projetos mobiles Java, contribuindo com minha experiência e conhecimento.</li>
+        <li>🤝 Se precisar de ajuda com Bancos de Dados ou Sistemas de Nuvens, estou à disposição para ajudar.</li>
+        <li>👨‍💻 Todos os meus projetos estão disponíveis <a href="https://nextjs-gabriel-feifer-calixtos-projects.vercel.app/">aqui</a>. Sinta-se à vontade para conferir e deixar seu feedback!</li>
+        <li>📫 Você pode entrar em contato comigo através do e-mail: gfcdev@outlook.com.br.</li>
+    </ul>
+    <p>Conecte-se comigo em outras plataformas:</p>
+    <ul>
+        <li><a href="https://fb.com/gabrielcalixto">Facebook</a></li>
+        <li><a href="https://github.com/gabrielfeiferc">GitHub</a></li>
+    </ul>
+    <h2>Linguagens e Ferramentas que utilizo:</h2>
+    <ul>
+        <li><img src="angular_logo.png" alt="Angular" width="40" height="40"> Angular</li>
+        <li><img src="c_logo.png" alt="C" width="40" height="40"> C</li>
+        <li><img src="csharp_logo.png" alt="C#" width="40" height="40"> C#</li>
+        <li><img src="css3_logo.png" alt="CSS3" width="40" height="40"> CSS3</li>
+        <li><img src="dotnet_logo.png" alt=".NET" width="40" height="40"> .NET</li>
+        <li><img src="figma_logo.png" alt="Figma" width="40" height="40"> Figma</li>
+        <li><img src="html5_logo.png" alt="HTML5" width="40" height="40"> HTML5</li>
+        <li><img src="java_logo.png" alt="Java" width="40" height="40"> Java</li>
+        <li><img src="javascript_logo.png" alt="JavaScript" width="40" height="40"> JavaScript</li>
+        <li><img src="mysql_logo.png" alt="MySQL" width="40" height="40"> MySQL</li>
+        <li><img src="nodejs_logo.png" alt="Node.js" width="40" height="40"> Node.js</li>
+        <li><img src="photoshop_logo.png" alt="Photoshop" width="40" height="40"> Photoshop</li>
+        <li><img src="postgresql_logo.png" alt="PostgreSQL" width="40" height="40"> PostgreSQL</li>
+        <li><img src="python_logo.png" alt="Python" width="40" height="40"> Python</li>
+    </ul>
+</body>
+</html>
