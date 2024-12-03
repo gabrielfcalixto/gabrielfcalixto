@@ -1,3 +1,18 @@
-<h1 align="center">Hi 👋, I'm Gabriel Calixto</h1>
-<h3 align="center">A full-stack development student with a passion for technologies</h3>
+      ____          _         
+     / ___|___   __| | ___    
+    | |   / _ \ / _` |/ _ \   
+    | |__| (_) | (_| |  __/   
+     \____\___/ \__,_|\___|   
+     
+Passionate developer creating solutions that make a difference.
 
+Technologies
+
+Languages: Java, C#, JavaScript, SQL
+Frameworks: Spring Boot, React Native, Bootstrap, Selenium
+Databases: MySQL, PostgreSQL
+Top Projects
+
+Starter: A social network built with Java and Spring Boot
+Currency Converter: Developed using Java and Android
+LandingPage: HTML, CSS and JS.
