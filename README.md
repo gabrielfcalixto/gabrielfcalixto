@@ -1,6 +1,6 @@
 
 
-# **Gabriel Calixto**  #
+# **Gabriel**  #
 ---
 ## **💻 Tecnologias e Ferramentas**
 
