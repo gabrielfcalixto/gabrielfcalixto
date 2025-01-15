@@ -1,8 +1,6 @@
 
 
 # **Gabriel Calixto**  #
-
-Desenvolvedor apaixonado por transformar ideias em soluções reais e impactantes.
 ---
 ## **💻 Tecnologias e Ferramentas**
 
