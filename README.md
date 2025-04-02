@@ -1,11 +1,4 @@
 
-
-# **Gabriel**  
-
-*Software Developer*  
-
----  
-
 ### **Tecnologias e Ferramentas**  
 
 <div style="display: inline_block"><br>  
