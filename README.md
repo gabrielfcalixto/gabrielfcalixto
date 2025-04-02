@@ -18,22 +18,6 @@
 
 ---
 
-## **🌱 Atualmente Aprendendo**
-
-- **React.js e React Native**: Desenvolvimento de aplicações web e mobile modernas.  
-- **C#**: Backend robusto para aplicações escaláveis.  
-- **Java e Spring Boot**: APIs e sistemas empresariais eficientes.  
-- **Design de Interfaces**: Foco em experiências minimalistas e intuitivas.  
-
----
-
-## **📂 Projetos em Destaque**
-
-### [1. Social Network Backend](https://github.com/seu-usuario/social-network-backend)  ###
-
-API completa para uma rede social com autenticação, feeds e interações.  
-**Tecnologias:** Java, Spring Boot, MySQL.  
----
 
   ##
  
@@ -46,5 +30,4 @@ API completa para uma rede social com autenticação, feeds e interações.
 </div>
 
 ---
-### **💡 Frase Motivacional**
 *"O sucesso é o resultado da persistência, dedicação e paixão por aquilo que fazemos."*  
