@@ -2,7 +2,7 @@
 
 # **Gabriel**  
 
-💻 *Software Developer*  
+*Software Developer*  
 
 ---  
 
@@ -32,4 +32,4 @@
 
 ---  
 
-🚀 *"O sucesso é o resultado da persistência, dedicação e paixão por aquilo que fazemos."*  
+*"O sucesso é o resultado da persistência, dedicação e paixão por aquilo que fazemos."*  
