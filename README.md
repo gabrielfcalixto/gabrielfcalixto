@@ -24,4 +24,4 @@
 
 ---  
 
-*"O sucesso é o resultado da persistência, dedicação e paixão por aquilo que fazemos."*  
+*"Success is the result of persistence, dedication and passion for what we do..."*  
