@@ -15,7 +15,7 @@
 
 ---  
 
-### **Contato**  
+### **Contact**  
 
 <div>   
   <a href="mailto:gfcappssolutions@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
