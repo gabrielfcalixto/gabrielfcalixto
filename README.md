@@ -1,27 +1,45 @@
+## Oi, eu sou o Gabriel
 
-### **Skills**  
+Desenvolvedor full stack em Curitiba/PR. Trabalho com Java, Spring Boot e Angular em sistemas corporativos do Sebrae/PR, pela Wise Systems. No dia a dia: funcionalidade nova, integração entre sistemas, incidente em produção e bastante código legado (Struts e Oracle PL/SQL) sendo modernizado aos poucos.
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">  
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">  
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">  
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">  
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">  
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot">  
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#">  
-</div>  
+Entrei na área por um caminho meio torto. Eu trabalhava no administrativo do Sebrae, cansei de lançar presença e atendimento na mão e escrevi um bot em C# pra fazer isso por mim. Foi ali que decidi que queria programar de verdade.
 
----  
+Fora do trabalho eu gosto de construir coisas que resolvem problemas de gente perto de mim: a banda da igreja, a escala dos músicos, a planilha de horas de todo mês.
 
-### **Contact**  
+### Stack
 
-<div>   
-  <a href="mailto:gfcappssolutions@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/gabriel-calixto-928909225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div>  
+- **Back-end:** Java 21, Spring Boot, Spring Security, JPA/Hibernate, .NET, REST, Oracle, PostgreSQL, PL/SQL
+- **Front-end:** Angular, TypeScript, React, React Native (Expo)
+- **Ferramentas:** Git, Docker, GitHub Actions, Linux
 
----  
+<p>
+  <img alt="Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">&nbsp;
+  <img alt="Spring" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot">&nbsp;
+  <img alt="Angular" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="Angular">&nbsp;
+  <img alt="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">&nbsp;
+  <img alt="Oracle" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle">&nbsp;
+  <img alt="PostgreSQL" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">&nbsp;
+  <img alt="Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">&nbsp;
+  <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+</p>
 
-*"Success is the result of persistence, dedication and passion for what we do..."*  
+### Projetos em destaque
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [louvart-api](https://github.com/gabrielfcalixto/louvart-api) | API do LouvartApp: agenda, repertório, escalas e integrantes de bandas de igreja | Java, Spring Boot |
+| [louvartApp](https://github.com/gabrielfcalixto/louvartApp) | Front web do LouvartApp | React, TypeScript |
+| [dotproject-automator](https://github.com/gabrielfcalixto/dotproject-automator) | Lança horas no dotProject a partir de uma planilha, com prévia e backup antes de gravar | Python |
+| [kyro](https://github.com/gabrielfcalixto/kyro) | App desktop de tarefas, notas e captura por voz, com dados locais | Tauri, React, SQLite |
+
+### O que estou estudando agora
+
+- Arquitetura de software e testes de integração com Testcontainers
+- Mensageria (Kafka e RabbitMQ)
+- AWS
+- Inglês (devagar e sempre)
+
+### Contato
+
+<a href="https://www.linkedin.com/in/gabrielfcalixto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:gfcappssolutions@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
