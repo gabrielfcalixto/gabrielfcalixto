@@ -1,27 +1,50 @@
+<div align="center">
 
-### **Skills**  
+```
+ ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+```
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">  
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">  
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">  
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">  
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">  
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot">  
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#">  
-</div>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=520&lines=Java;Angular;.NET;JavaScript;React+%C2%B7+React+Native;Docker;Oracle+%C2%B7+MySQL+%C2%B7+PostgreSQL;CI%2FCD" alt="Stack" />
 
----  
+<br/>
 
-### **Contact**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" title=".NET" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native" title="React / React Native" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" title="Oracle" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="CI/CD" title="CI/CD" />
 
-<div>   
-  <a href="mailto:gfcappssolutions@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/gabriel-calixto-928909225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div>  
+</div>
 
----  
+---
 
-*"Success is the result of persistence, dedication and passion for what we do..."*  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielfcalixto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfcalixto&layout=compact&hide_border=true&theme=transparent&title_color=c9d1d9&text_color=8b949e" height="165" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=gabrielfcalixto&hide_border=true&background=00000000&ring=8b949e&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="Sequência de commits" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfcalixto&hide_border=true&bg_color=00000000&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=8b949e" width="100%" alt="Gráfico de contribuições" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+process exited with code 0 — thank you for visit :)
+```
+
+</div>
