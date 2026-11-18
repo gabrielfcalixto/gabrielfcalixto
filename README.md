@@ -9,11 +9,11 @@
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=520&lines=Java;Angular;.NET;JavaScript;React+%C2%B7+React+Native;Docker;Oracle+%C2%B7+MySQL+%C2%B7+PostgreSQL;CI%2FCD" alt="Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=520&lines=Java;Spring+Boot;Angular;TypeScript;.NET;JavaScript;React+%C2%B7+React+Native;Docker;Oracle+%C2%B7+MySQL+%C2%B7+PostgreSQL;CI%2FCD" alt="Stack" />
 
 <br/>
 
-<img src="./assets/stack.svg" alt="Java, Angular, .NET, JavaScript, React, React Native, Docker, Oracle, MySQL, PostgreSQL, CI/CD" />
+<img src="./assets/stack.svg" alt="Java, Spring Boot, Angular, TypeScript, .NET, JavaScript, React, React Native, Docker, Oracle, MySQL, PostgreSQL, CI/CD" />
 
 </div>
 

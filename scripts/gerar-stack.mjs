@@ -3,7 +3,9 @@ import { mkdir, writeFile } from "node:fs/promises";
 const CDN = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons";
 const ICONES = [
   ["java", "java-original"],
+  ["spring", "spring-original"],
   ["angular", "angular-original"],
+  ["typescript", "typescript-original"],
   ["dotnetcore", "dotnetcore-original"],
   ["javascript", "javascript-original"],
   ["react", "react-original"],
